@@ -7,10 +7,16 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #0a0a0a;
+  background: red; /* For browsers that do not support gradients */
+      background: -webkit-linear-gradient(#606c71, #207c24); /* For Safari 5.1 to 6.0 */
+      background: -o-linear-gradient(#606c71, #207c24); /* For Opera 11.1 to 12.0 */
+      background: -moz-linear-gradient(#606c71, #207c24); /* For Firefox 3.6 to 15 */
+      background: linear-gradient(#606c71, #207c24); /* Standard syntax */
+ }
 
 a {
-  color: #1e6bb8;
+  color: #ffffff;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -112,14 +118,14 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; }
+  color: #cccccc; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
   padding: 2px 4px;
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
-  color: #383e41;
+  color: #0f0f0f;
   background-color: #f3f6fa;
   border-radius: 0.3rem; }
 .main-content pre {
@@ -127,7 +133,7 @@ a {
   margin-top: 0;
   margin-bottom: 1rem;
   font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  color: #567482;
+  color: #000000;
   word-wrap: normal;
   background-color: #f3f6fa;
   border: solid 1px #dce6f0;
@@ -136,7 +142,7 @@ a {
     padding: 0;
     margin: 0;
     font-size: 0.9rem;
-    color: #567482;
+    color: #000000;
     word-break: normal;
     white-space: pre;
     background: transparent;
