@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vishnu D Sharma"
+title                    : "Personal Webpage"
 title_separator          : "-"
-name                     : &name "Vishnu Dutt Shara"
+name                     : &name "Vishnu Dutt Sharma"
 description              : &description "Personal Webpage"
 url                      : https://VishnuDuttSharma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Vishnu Sharma"
-  avatar           : "profile.png"
+  avatar           : "profile5.png"
   bio              : "Ph.D. Student at UMD, working on interpretable decision-making in robotics"
-  location         : "College Park"
+  location         : "College Park, MD"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SeRpU4YAAAAJ&hl=en"
