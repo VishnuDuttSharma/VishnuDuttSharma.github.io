@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vishnu D Sharma"
+title                    : "Vishnu Dutt Sharma"
 title_separator          : "-"
-name                     : &name "Vishnu Dutt Shara"
-description              : &description "Personal Webpage"
+name                     : &name "Vishnu Dutt Sharma"
+description              : &description "Vishnu Sharma"
 url                      : https://VishnuDuttSharma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "VishnuDuttSharma/VishnuDuttSharma.github.io"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vishnu Sharma"
-  avatar           : "profile.png"
+  name             : "Vishnu D uttSharma"
+  avatar           : "profile5.jpg"
   bio              : "Ph.D. Student at UMD, working on interpretable decision-making in robotics"
   location         : "College Park"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "www.linkedin.com/in/vishnu-dutt-sharma-2826a352"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
