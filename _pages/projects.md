@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-- ## [Persistent-Monitoring using Multi-Robot (UAV-UGV) Coordination](https://github.com/VishnuDuttSharma/CMSC818B_MiniProject_2/tree/main/python)
+- ## [Persistent-Monitoring using Multi-Robot (UAV-UGV) Coordination](https://github.com/VishnuDuttSharma/CMSC818B_MiniProject_2/tree/main/python#persistent-monitoring-using-multi-robot-uav-ugv-coordination)
     *Course project for* ***Decision-Making for Robots (CMSC818B)*** *course at UMD, College Park (Fall 2020)*
     <img src="https://github.com/VishnuDuttSharma/CMSC818B_MiniProject_2/raw/main/python/images/all_algo.gif" alt="persistent monitoring" width="480"/>
 
