@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Computer Science Department at the [University of Maryland, College Park](https://www.cs.umd.edu/), advised by Dr. Pratap Tokekar. My reserach interests lie in the learning algorithms, deep learning in particular, their applications in robotics (perception and planning), and interpretable decision-making. 
+I am a PhD student in the Computer Science Department at the [University of Maryland, College Park](https://www.cs.umd.edu/), advised by Dr. Pratap Tokekar. My research interests lie in the learning algorithms, deep learning in particular, their applications in robotics (perception and planning), and interpretable decision-making. 
 
 I completed my MTech and BTech in 2017 from [IIT Kharagpur](http://www.iitkgp.ac.in/) in Electronics and Electrical Communication Engineering, specializing in Visual Information and Embedded Systems. I also earned a minor in Computer Science and Engineering. At IIT Kharagpur, I conducted research with [Dr. Amrith Krishna](https://krishnamrith12.github.io/) and [Dr. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) in word segmentation and poetry-to-prose conversion for Sanskrit. 
 
