@@ -1,0 +1,18 @@
+---
+title: "Graph Neural Networks for Decentralized Multi-Robot Submodular Action Selection"
+collection: publications
+permalink: https://arxiv.org/pdf/2105.08601.pdf
+excerpt: 'Lifeng Zhou, <b>Vishnu Dutt Sharma</b>, Qingbiao Li, Amanda Prorok, Alejandro Ribeiro, Vijay Kumar (2021). &quot;Graph Neural Networks for Decentralized Multi-Robot Submodular Action Selection.&quot; <br/> <i>Under submission</i>'
+# date: 2021-10-22
+# :venue: ''
+paperurl: 'https://arxiv.org/pdf/2105.08601.pdf'
+# citation: 'Lifeng Zhou, Vishnu Dutt Sharma,Qingbiao Li, Amanda Prorok, Alejandro Ribeiro, Vijay Kumar. (2021). &quot;Graph Neural Networks for Decentralized Multi-Robot Submodular Action Selection.&quot; <i>Under submission</i>.'
+---
+
+**Abstract:**
+In this paper, we develop a learning-based approach for decentralized submodular maximization. We focus on applications where robots are required to jointly select actions, e.g., motion primitives, to maximize team submodular objectives with local communications only. Such applications are essential for large-scale multi-robot coordination such as multi-robot motion planning for area coverage, environment exploration, and target tracking. But the current decentralized submodular maximization algorithms either require assumptions on the inter-robot communication or lose some suboptimal guarantees. In this work, we propose a general-purpose learning architecture towards submodular maximization at scale, with decentralized communications. Particularly, our learning architecture leverages a graph neural network (GNN) to capture local interactions of the robots and learns decentralized decision-making for the robots. We train the learning model by imitating an expert solution and implement the resulting model for decentralized action selection involving local observations and communications only. We demonstrate the performance of our GNN-based learning approach in a scenario of active target coverage with large networks of robots. The simulation results show our approach nearly matches the coverage performance of the expert algorithm, and yet runs several orders faster with more than 30 robots. The results also exhibit our approach's generalization capability in previously unseen scenarios, e.g., larger environments and larger networks of robots.
+
+
+Lifeng Zhou, Vishnu Dutt Sharma, Qingbiao Li, Amanda Prorok, Alejandro Ribeiro, Vijay Kumar (2021). &quot;Graph Neural Networks for Decentralized Multi-Robot Submodular Action Selection.&quot; <br/><i>Under submission</i><br/> 
+
+
