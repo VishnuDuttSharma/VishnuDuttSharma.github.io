@@ -15,11 +15,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+# Under Review
+## **[Occupancy Map Prediction for Improved Indoor Robot Navigation](https://arxiv.org/pdf/2203.04177.pdf)**<br/>
+<b>Vishnu Dutt Sharma</b>, Jingxi Chen, Abhinav Shrivastava, Pratap Tokekar<br/><i>Under review at IROS 2022</i><br/> 
+Download [here](https://arxiv.org/pdf/2203.04177.pdf)
+
+## **[Graph Neural Networks for Decentralized Multi-Robot Target Tracking](https://arxiv.org/pdf/2105.08601.pdf)**<br/>
+Lifeng Zhou, <b>Vishnu Dutt Sharma</b>, Qingbiao Li, Amanda Prorok, Alejandro Ribeiro, Pratap Tokekar, Vijay Kumar<br/><i>Under review at IROS 2022</i><br/>
+Download [here](https://arxiv.org/pdf/2105.08601.pdf)
+
+
 # Preprints
 ## **[Risk-Aware Path Planning for Ground Vehicles using Occluded Aerial Images](https://arxiv.org/pdf/2104.11709.pdf)**<br/>
 <b>Vishnu Dutt Sharma</b>, Pratap Tokekar (2021)<br/><br/>
 Download [here](https://arxiv.org/pdf/2104.11709.pdf)
-
-## **[Graph Neural Networks for Decentralized Multi-Robot Submodular Action Selection](https://arxiv.org/pdf/2105.08601.pdf)**<br/>
-Lifeng Zhou, <b>Vishnu Dutt Sharma</b>, Qingbiao Li, Amanda Prorok, Alejandro Ribeiro, Vijay Kumar (2021)<br/><br/>
-Download [here](https://arxiv.org/pdf/2105.08601.pdf)
