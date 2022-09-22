@@ -15,23 +15,27 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+# Workshop Papers
 
 ## **[Risk-Aware Path Planning for Ground Vehicles using Occluded Aerial Images](https://arxiv.org/pdf/2104.11709.pdf)**<br/>
-<b>Vishnu Dutt Sharma</b>, Pratap Tokekar (2021)<br/>
-<i>Accepted at ICRA 2022 workshop on Robotic Perception and Mapping: Emerging Techniques</i><br/><br/>
+<b>Vishnu Dutt Sharma</b>, Pratap Tokekar<br/>
+<i>ICRA 2022 workshop on Robotic Perception and Mapping: Emerging Techniques</i><br/><br/>
 Download [here](https://arxiv.org/pdf/2104.11709.pdf)
 
-# Under Review
 ## **[Occupancy Map Prediction for Improved Indoor Robot Navigation](https://arxiv.org/pdf/2203.04177.pdf)**<br/>
-<b>Vishnu Dutt Sharma</b>, Jingxi Chen, Abhinav Shrivastava, Pratap Tokekar<br/><i>Under review at IROS 2022</i><br/> 
-<i>Accepted at ICRA 2022 workshop on Robotic Perception and Mapping: Emerging Techniques</i><br/>
-<i>Under review at IROS 2022</i><br/><br/>
+<b>Vishnu Dutt Sharma</b>, Jingxi Chen, Abhinav Shrivastava, Pratap Tokekar<br/> 
+<i>ICRA 2022 workshop on Robotic Perception and Mapping: Emerging Techniques</i><br/>
 Download [here](https://arxiv.org/pdf/2203.04177.pdf)
 
+# Under Review Works
 
-# Preprints
-## **[Graph Neural Networks for Decentralized Multi-Robot Target Tracking](https://arxiv.org/pdf/2105.08601.pdf)**<br/>
-Lifeng Zhou, <b>Vishnu Dutt Sharma</b>, Qingbiao Li, Amanda Prorok, Alejandro Ribeiro, Pratap Tokekar, Vijay Kumar<br/><i>Under review at IROS 2022</i><br/>
-Download [here](https://arxiv.org/pdf/2105.08601.pdf)
+## **[D2CoPlan: A Differentiable Decentralized Planner for Multi-Robot Coverage](https://arxiv.org/pdf/2209.09292v1.pdf)**<br/>
+<b>Vishnu Dutt Sharma</b>, Lifeng Zhou, Pratap Tokekar<br/>
+<i>Under review at ICRA 2023</i><br/> 
+Download [here](https://arxiv.org/pdf/2209.09292v1.pdf)
+
+## **[Improved Occupancy Map Prediction for Improved Indoor Robot Navigation](https://vishnuduttsharma.github.io/publications/)**<br/>
+<b>Vishnu Dutt Sharma</b>, Jingxi Chen, Pratap Tokekar<br/>
+<i>Under review at ICRA 2023</i><br/> 
 
 
