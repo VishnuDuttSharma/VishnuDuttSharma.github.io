@@ -27,6 +27,10 @@ Download [here](https://arxiv.org/pdf/2104.11709.pdf)
 <i>ICRA 2022 workshop on Robotic Perception and Mapping: Emerging Techniques</i><br/>
 Download [here](https://arxiv.org/pdf/2203.04177.pdf)
 
+## **[Semantic Navigation for Assistive Robots: Identifying, Mapping, and Navigating to Door Signs in Indoor Environments](https://vishnuduttsharma.github.io/publications/)**<br/>
+Shivani Nanda, <b>Vishnu Dutt Sharma</b>, Guangyao Shi, Jingxi Chen, Pratap Tokekar<br/>
+<i>IROS 2022 workshop on Social and Cognitive Interactions for Assistive Robotics Workshop</i><br/><br/>
+
 # Under Review Works
 
 ## **[D2CoPlan: A Differentiable Decentralized Planner for Multi-Robot Coverage](https://arxiv.org/pdf/2209.09292v1.pdf)**<br/>
