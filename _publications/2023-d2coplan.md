@@ -2,7 +2,7 @@
 title: "D2CoPlan: A Differentiable Decentralized Planner for Multi-Robot Coverage"
 collection: publications
 permalink: https://arxiv.org/abs/2209.09292v1
-excerpt: '<b>Vishnu Dutt Sharma</b>, Lifeng Zhou, Pratap Tokekar, Vijay Kumar (2023). &quot;D2CoPlan: A Differentiable Decentralized Planner for Multi-Robot Coverage.&quot; <br /><i>Accepted at the International Conference on Robotics and Automation (ICRA 2023)</i>'
+excerpt: '<b>Vishnu Dutt Sharma</b>, Lifeng Zhou, Pratap Tokekar (2023). &quot;D2CoPlan: A Differentiable Decentralized Planner for Multi-Robot Coverage.&quot; <br /><i>Accepted at the International Conference on Robotics and Automation (ICRA 2023)</i>'
 # date: 2009-10-01
 # :venue: ''
 paperurl: 'https://arxiv.org/pdf/2209.09292v1.pdf'
