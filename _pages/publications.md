@@ -9,11 +9,22 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+## **[ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation](https://arxiv.org/abs/2203.04177)**<br/>
+<b>Vishnu Dutt Sharma</b>, Jingxi Chen, Pratap Tokekar<br/>
+(Accepted at <i>IROS 2023</i>)
+
+
+## **[Pred-NBV: Prediction-guided Next-Best-View for 3D Object Reconstruction](https://arxiv.org/abs/2304.11465)**<br/>
+Harnaik Dhami*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar<br/>
+(Accepted at <i>IROS 2023</i>)
+
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
 
 # Workshop Papers
 
@@ -39,14 +50,8 @@ Shivani Nanda, <b>Vishnu Dutt Sharma</b>, Guangyao Shi, Jingxi Chen, Pratap Toke
 
 # Under Review Works
 
-## **[ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation](https://vishnuduttsharma.github.io/publications/)**<br/>
-<b>Vishnu Dutt Sharma</b>, Jingxi Chen, Pratap Tokekar<br/>
-(Under Review at <i>IROS 2023</i>)
-
-
-## **[Pred-NBV: Prediction-guided Next-Best-View for 3D Object Reconstruction](https://arxiv.org/abs/2304.11465)**<br/>
+## **[MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction](https://arxiv.org/abs/2307.04004)**<br/>
 Harnaik Dhami*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar<br/>
-(Under Review at <i>IROS 2023</i>)
-
+(Under review at <i>MRS 2023</i>)
 
 *<i>Equal Contribution</i>
