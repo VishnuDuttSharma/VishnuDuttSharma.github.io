@@ -80,3 +80,8 @@ Harnaik Dhami*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar
 (<i>*</i>: Indicates equal contribution)<br/>
 Download [here](https://arxiv.org/pdf/2307.04004.pdf)
 
+
+## **[Interpretable Deep Reinforcement Learning for Green Security Games with Real-Time Information](https://arxiv.org/abs/2211.04987)**
+<b>Vishnu Dutt Sharma</b>, John P. Dickerson, Pratap Tokekar
+<br/>
+Download [here](https://arxiv.org/pdf/2211.04987.pdf)
