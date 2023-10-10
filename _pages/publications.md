@@ -12,17 +12,17 @@ author_profile: true
 ## **[ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation](https://arxiv.org/abs/2203.04177)**<br/>
 <b>Vishnu Dutt Sharma</b>, Jingxi Chen, Pratap Tokekar (2023). "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation."<br/>
 <i>Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)</i>
-<br/><br/>
+<br/>
 Download [here](https://arxiv.org/pdf/2203.04177.pdf)
 
 
 ## **[Pred-NBV: Prediction-guided Next-Best-View for 3D Object Reconstruction](https://arxiv.org/abs/2304.11465)**<br/>
 Harnaik Dhami*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar<br/>
-(*: Indicates equal contribution)<br/>
+(\*: Indicates equal contribution)<br/>
 <i>Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)</i><br/>
 <i>Robotics: Science and Systems (RSS) Workshop on Robot Representations For Scene Understanding, Reasoning and Planning, 2023</i><br/>
 <i>Robotics: Science and Systems (RSS) Workshop on Inference and Decision Making for Autonomous Vehicles, 2023</i>
-<br/><br/>
+<br/>
 Download [here](https://arxiv.org/pdf/2304.11465.pdf)
 
 {% include base_path %}
@@ -36,7 +36,7 @@ Download [here](https://arxiv.org/pdf/2304.11465.pdf)
 ## **[Pre-Trained Masked Image Model for Mobile Robot Navigation](https://raaslab.org/pubs/sharma2023pretrained.pdf)**<br/>
 <b>Vishnu Dutt Sharma</b>, Anukriti Singh, Pratap Tokekar<br/>
 Under review at <i>ICRA 2024</i>
-<br/><br/>
+<br/>
 
 Download [here]([https://arxiv.org/pdf/2203.04177.pdf](https://raaslab.org/pubs/sharma2023pretrained.pdf))
 
@@ -44,23 +44,26 @@ Download [here]([https://arxiv.org/pdf/2203.04177.pdf](https://raaslab.org/pubs/
 <b>Vishnu Dutt Sharma</b>, Jeongran Lee, Matthew Andrews, Ilija Hadžić<br/>
 (Work done as summer intern at [Nokia Bell Labs](https://www.bell-labs.com/))<br/>
 Under review at <i>ICRA 2024</i>
-<br/><br/>
+<br/>
 
 # Workshop Papers
 
 ## **[FLIP-TD: Free Lunch Inpainting on Top-Down Images for Robotic Tasks](https://openreview.net/forum?id=7c0WHyETaHC)**<br/>
 Anukriti Singh*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar<br/>
-<i>ICRA 2023 workshop on Pretraining for Robotics (PT4R)</i><br/><br/>
+<i>ICRA 2023 workshop on Pretraining for Robotics (PT4R)</i>
+<br/>
 Download [here](https://openreview.net/pdf?id=7c0WHyETaHC)
 
 ## **[Risk-Aware Path Planning for Ground Vehicles using Occluded Aerial Images](https://arxiv.org/pdf/2104.11709.pdf)**<br/>
 <b>Vishnu Dutt Sharma</b>, Pratap Tokekar<br/>
-<i>ICRA 2022 workshop on Robotic Perception and Mapping: Emerging Techniques</i><br/><br/>
+<i>ICRA 2022 workshop on Robotic Perception and Mapping: Emerging Techniques</i>
+<br/>
 Download [here](https://arxiv.org/pdf/2104.11709.pdf)
 
 ## **[Occupancy Map Prediction for Improved Indoor Robot Navigation](https://arxiv.org/pdf/2203.04177.pdf)**<br/>
 <b>Vishnu Dutt Sharma</b>, Jingxi Chen, Abhinav Shrivastava, Pratap Tokekar<br/> 
-<i>ICRA 2022 workshop on Robotic Perception and Mapping: Emerging Techniques</i><br/><br/>
+<i>ICRA 2022 workshop on Robotic Perception and Mapping: Emerging Techniques</i>
+<br/>
 
 Download [here](https://arxiv.org/pdf/2203.04177.pdf)
 
@@ -72,7 +75,8 @@ Shivani Nanda, <b>Vishnu Dutt Sharma</b>, Guangyao Shi, Jingxi Chen, Pratap Toke
 # Preprints
 
 ## **[MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction](https://arxiv.org/abs/2307.04004)**<br/>
-Harnaik Dhami*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar<br/><br/>
-(*: Indicates equal contribution)<br/>
+Harnaik Dhami*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar
+<br/>
+(\*: Indicates equal contribution)<br/>
 Download [here](https://arxiv.org/pdf/2307.04004.pdf)
 
