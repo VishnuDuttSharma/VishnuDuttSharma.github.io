@@ -18,7 +18,7 @@ Download [here](https://arxiv.org/pdf/2203.04177.pdf)
 
 ## **[Pred-NBV: Prediction-guided Next-Best-View for 3D Object Reconstruction](https://arxiv.org/abs/2304.11465)**<br/>
 Harnaik Dhami*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar<br/>
-(\*: Indicates equal contribution)<br/>
+(&ast;: Indicates equal contribution)<br/>
 <i>Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)</i><br/>
 <i>Robotics: Science and Systems (RSS) Workshop on Robot Representations For Scene Understanding, Reasoning and Planning, 2023</i><br/>
 <i>Robotics: Science and Systems (RSS) Workshop on Inference and Decision Making for Autonomous Vehicles, 2023</i>
@@ -77,6 +77,6 @@ Shivani Nanda, <b>Vishnu Dutt Sharma</b>, Guangyao Shi, Jingxi Chen, Pratap Toke
 ## **[MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction](https://arxiv.org/abs/2307.04004)**<br/>
 Harnaik Dhami*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar
 <br/>
-(\*: Indicates equal contribution)<br/>
+(&ast;: Indicates equal contribution)<br/>
 Download [here](https://arxiv.org/pdf/2307.04004.pdf)
 
