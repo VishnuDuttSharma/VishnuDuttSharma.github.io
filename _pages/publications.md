@@ -9,6 +9,14 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+
+## **[Pre-Trained Masked Image Model for Mobile Robot Navigation](https://raaslab.org/pubs/sharma2023pretrained.pdf)**<br/>
+<b>Vishnu Dutt Sharma</b>, Anukriti Singh, Pratap Tokekar<br/>
+Accepted at <i>ICRA 2024</i>
+<br/>
+Download [here](https://raaslab.org/pubs/sharma2023pretrained.pdf)
+
+
 ## **[ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation](https://arxiv.org/abs/2203.04177)**<br/>
 <b>Vishnu Dutt Sharma</b>, Jingxi Chen, Pratap Tokekar (2023). "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation."<br/>
 <i>Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)</i>
@@ -31,20 +39,6 @@ Download [here](https://arxiv.org/pdf/2304.11465.pdf)
   {% include archive-single.html %}
 {% endfor %}
 
-# Under Review Works
-
-## **[Pre-Trained Masked Image Model for Mobile Robot Navigation](https://raaslab.org/pubs/sharma2023pretrained.pdf)**<br/>
-<b>Vishnu Dutt Sharma</b>, Anukriti Singh, Pratap Tokekar<br/>
-Under review at <i>ICRA 2024</i>
-<br/>
-
-Download [here]([https://arxiv.org/pdf/2203.04177.pdf](https://raaslab.org/pubs/sharma2023pretrained.pdf))
-
-## **[Hybrid Classical/RL Local Planner for Ground Robot Navigation](https://vishnuduttsharma.github.io/publications/)**<br/>
-<b>Vishnu Dutt Sharma</b>, Jeongran Lee, Matthew Andrews, Ilija Hadžić<br/>
-(Work done as summer intern at [Nokia Bell Labs](https://www.bell-labs.com/))<br/>
-Under review at <i>ICRA 2024</i>
-<br/>
 
 # Workshop Papers
 
@@ -70,6 +64,14 @@ Download [here](https://arxiv.org/pdf/2203.04177.pdf)
 ## **[Semantic Navigation for Assistive Robots: Identifying, Mapping, and Navigating to Door Signs in Indoor Environments](https://vishnuduttsharma.github.io/publications/)**<br/>
 Shivani Nanda, <b>Vishnu Dutt Sharma</b>, Guangyao Shi, Jingxi Chen, Pratap Tokekar<br/>
 <i>IROS 2022 workshop on Social and Cognitive Interactions for Assistive Robotics Workshop</i><br/><br/>
+
+# Under Revision
+
+## **[Hybrid Classical/RL Local Planner for Ground Robot Navigation](https://vishnuduttsharma.github.io/publications/)**<br/>
+<b>Vishnu Dutt Sharma</b>, Jeongran Lee, Matthew Andrews, Ilija Hadžić<br/>
+(Work done as a summer intern at [Nokia Bell Labs](https://www.bell-labs.com/))<br/>
+Under review at <i>ICRA 2024</i>
+<br/>
 
 
 # Preprints
