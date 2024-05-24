@@ -39,6 +39,21 @@ Download [here](https://arxiv.org/pdf/2304.11465.pdf)
   {% include archive-single.html %}
 {% endfor %}
 
+# Under Review
+
+## **[Hybrid Classical/RL Local Planner for Ground Robot Navigation](https://vishnuduttsharma.github.io/publications/)**<br/>
+<b>Vishnu Dutt Sharma</b>, Jeongran Lee, Matthew Andrews, Ilija Hadžić<br/>
+(Work done as a summer intern at [Nokia Bell Labs](https://www.bell-labs.com/))<br/>
+Under review at <i>IROS 2024</i>
+<br/>
+
+## **[MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction](https://arxiv.org/abs/2307.04004)**<br/>
+Harnaik Dhami*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar<br/>
+(<i>*</i>: Indicates equal contribution)<br/>
+Under review at <i>IROS 2024</i>
+<br/>
+
+Download [here](https://arxiv.org/pdf/2307.04004.pdf)
 
 # Workshop Papers
 
@@ -65,23 +80,8 @@ Download [here](https://arxiv.org/pdf/2203.04177.pdf)
 Shivani Nanda, <b>Vishnu Dutt Sharma</b>, Guangyao Shi, Jingxi Chen, Pratap Tokekar<br/>
 <i>IROS 2022 workshop on Social and Cognitive Interactions for Assistive Robotics Workshop</i><br/><br/>
 
-# Under Revision
-
-## **[Hybrid Classical/RL Local Planner for Ground Robot Navigation](https://vishnuduttsharma.github.io/publications/)**<br/>
-<b>Vishnu Dutt Sharma</b>, Jeongran Lee, Matthew Andrews, Ilija Hadžić<br/>
-(Work done as a summer intern at [Nokia Bell Labs](https://www.bell-labs.com/))<br/>
-Under review at <i>ICRA 2024</i>
-<br/>
-
 
 # Preprints
-
-## **[MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction](https://arxiv.org/abs/2307.04004)**<br/>
-Harnaik Dhami*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar
-<br/>
-(<i>*</i>: Indicates equal contribution)<br/>
-Download [here](https://arxiv.org/pdf/2307.04004.pdf)
-
 
 ## **[Interpretable Deep Reinforcement Learning for Green Security Games with Real-Time Information](https://arxiv.org/abs/2211.04987)**
 <b>Vishnu Dutt Sharma</b>, John P. Dickerson, Pratap Tokekar
