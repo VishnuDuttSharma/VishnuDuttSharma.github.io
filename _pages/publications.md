@@ -15,6 +15,13 @@ Harnaik Dhami*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar<br/>
 <br/>
 Download [here](https://arxiv.org/pdf/2307.04004.pdf)
 
+## **[LAVA: Long-horizon Visual Action based Food Acquisition](https://raaslab.org/projects/RoboSpoon/)**<br/>
+Amisha Bhaskar, Rui Liu, <b>Vishnu Dutt Sharma</b>, Guangyao Shi, Pratap Tokekar<br/>
+<i>Accepted at IROS 2024</i>
+<br/>
+Download [here](https://arxiv.org/pdf/2403.12876)
+
+
 ## **[Pre-Trained Masked Image Model for Mobile Robot Navigation](https://raaslab.org/projects/MIM4Robots/)**<br/>
 <b>Vishnu Dutt Sharma</b>, Anukriti Singh, Pratap Tokekar<br/>
 <i>Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2024)</i>
@@ -87,6 +94,10 @@ Download [here](https://arxiv.org/pdf/2410.03066)
 <b>Vishnu Dutt Sharma</b>, John P. Dickerson, Pratap Tokekar
 <br/>
 Download [here](https://arxiv.org/pdf/2211.04987.pdf)
+
+## **[GATSBI: An Online GTSP-Based Algorithm for Targeted Surface Bridge Inspection and Defect Detection](https://arxiv.org/abs/2406.16625)**
+Harnaik Dhami, Charith Reddy, <b>Vishnu Dutt Sharma</b>, Troi Williams, Pratap Tokekar<br/>
+Download [here](https://arxiv.org/pdf/2406.16625)
 
 
 (<i>*</i>: Indicates equal contribution)<br/>
