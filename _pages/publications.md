@@ -9,15 +9,20 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+## **[Improving Zero-Shot ObjectNav with Generative Communication](https://gamma.umd.edu/gencomm/index.html)**<br/>
+Vishnu Sashank Dorbala*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar, Dinesh Manocha<br/>
+<i>Accepted ICRA 2025</i><br/>
+Download [here](https://arxiv.org/pdf/2408.01877)
+
 ## **[MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction](https://raaslab.org/projects/MAPNBV/)**<br/>
 Harnaik Dhami*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar<br/>
-<i>Accepted at IROS 2024</i>
+<i>Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</i>
 <br/>
 Download [here](https://arxiv.org/pdf/2307.04004.pdf)
 
 ## **[LAVA: Long-horizon Visual Action based Food Acquisition](https://raaslab.org/projects/RoboSpoon/)**<br/>
 Amisha Bhaskar, Rui Liu, <b>Vishnu Dutt Sharma</b>, Guangyao Shi, Pratap Tokekar<br/>
-<i>Accepted at IROS 2024</i>
+<i>Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</i>
 <br/>
 Download [here](https://arxiv.org/pdf/2403.12876)
 
@@ -50,11 +55,6 @@ Download [here](https://arxiv.org/pdf/2304.11465.pdf)
   {% include archive-single.html %}
 {% endfor %}
 
-# Under Review
-## **[Improving Zero-Shot ObjectNav with Generative Communication](https://gamma.umd.edu/gencomm/index.html)**<br/>
-Vishnu Sashank Dorbala*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar, Dinesh Manocha<br/>
-<i>Under review at ICRA 2025</i><br/>
-Download [here](https://arxiv.org/pdf/2408.01877)<br/><br/>
 
 # Workshop Papers
 
