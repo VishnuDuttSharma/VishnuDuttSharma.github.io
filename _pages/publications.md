@@ -9,9 +9,14 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+## **[Hybrid Classical/RL Local Planner for Ground Robot Navigation](https://arxiv.org/abs/2410.03066)**<br/>
+<b>Vishnu Dutt Sharma</b>, Jeongran Lee, Matthew Andrews, Ilija Hadžić<br/>
+<i>Accepted at the RL Conference 2025</i><br/>
+Download [here](https://arxiv.org/pdf/2410.03066)
+
 ## **[Improving Zero-Shot ObjectNav with Generative Communication](https://gamma.umd.edu/gencomm/index.html)**<br/>
 Vishnu Sashank Dorbala*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar, Dinesh Manocha<br/>
-<i>Accepted ICRA 2025</i><br/>
+<i>Accepted at the ICRA 2025</i><br/>
 Download [here](https://arxiv.org/pdf/2408.01877)
 
 ## **[MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction](https://raaslab.org/projects/MAPNBV/)**<br/>
@@ -83,12 +88,6 @@ Shivani Nanda, <b>Vishnu Dutt Sharma</b>, Guangyao Shi, Jingxi Chen, Pratap Toke
 Watch [here](https://www.youtube.com/watch?v=hRoSkvnDb0Y)<br/><br/>
 
 # Preprints
-
-## **[Hybrid Classical/RL Local Planner for Ground Robot Navigation](https://arxiv.org/abs/2410.03066)**<br/>
-<b>Vishnu Dutt Sharma</b>, Jeongran Lee, Matthew Andrews, Ilija Hadžić<br/>
-(Work done as a summer intern at [Nokia Bell Labs](https://www.bell-labs.com/))<br/>
-Download [here](https://arxiv.org/pdf/2410.03066)
-<br/>
 
 ## **[Interpretable Deep Reinforcement Learning for Green Security Games with Real-Time Information](https://arxiv.org/abs/2211.04987)**
 <b>Vishnu Dutt Sharma</b>, John P. Dickerson, Pratap Tokekar
