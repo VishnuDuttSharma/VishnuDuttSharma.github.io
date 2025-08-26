@@ -14,6 +14,10 @@ author_profile: true
 <i>Accepted at the RL Conference 2025</i><br/>
 Download [here](https://arxiv.org/pdf/2410.03066)
 
+## **[Design of a Smooth Dynamic Digital Twin for Industrial Object Tracking](https://www.ieee-metacom.org/accept-papers.html)**<br/>
+Jeongran Lee, <b>Vishnu Dutt Sharma</b>, Lou Salaun, Matthew Andrews<br/>
+<i>Accepted at the IEEE Metacom 2025</i><br/>
+
 ## **[Improving Zero-Shot ObjectNav with Generative Communication](https://gamma.umd.edu/gencomm/index.html)**<br/>
 Vishnu Sashank Dorbala*, <b>Vishnu Dutt Sharma*</b>, Pratap Tokekar, Dinesh Manocha<br/>
 <i>Accepted at the ICRA 2025</i><br/>
