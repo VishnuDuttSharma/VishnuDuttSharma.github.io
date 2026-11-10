@@ -2,7 +2,8 @@
 title: "Risk-Aware Planning and Assignment for Ground Vehicles using Uncertain Perception from Aerial Vehicles"
 collection: publications
 pubtype: conference
-permalink: https://arxiv.org/abs/2003.11675/
+link: 'https://arxiv.org/abs/2003.11675/'
+permalink: /publication/2020-risk_aware_planning
 excerpt: '<b>Vishnu Dutt Sharma</b>, Maymoonah Toubeh, Lifeng Zhou, Pratap Tokekar (2020). &quot;Risk-Aware Planning and Assignment for Ground Vehicles using Uncertain Perception from Aerial Vehicles.&quot; <br /><i>Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020)</i>'
 date: 2020-10-25
 venue: 'Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020)'

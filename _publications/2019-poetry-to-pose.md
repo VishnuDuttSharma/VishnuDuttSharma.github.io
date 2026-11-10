@@ -2,7 +2,8 @@
 title: "Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A Case for Low-Resource Languages"
 collection: publications
 pubtype: conference
-permalink: https://www.aclweb.org/anthology/P19-1111/
+link: 'https://www.aclweb.org/anthology/P19-1111/'
+permalink: /publication/2019-poetry-to-pose
 excerpt: 'Amrith Krishna, <b>Vishnu Dutt Sharma</b>, Bishal Santra, Aishik Chakraborty, Pavankumar Satuluri, Pawan Goyal (2019). &quot;Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A Case for Low-Resource Languages.&quot; <br /><i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)</i>'
 date: 2019-07-28
 venue: 'Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)'

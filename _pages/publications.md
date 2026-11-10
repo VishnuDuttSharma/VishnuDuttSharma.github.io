@@ -19,6 +19,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endif %}{% endfor %}
 
+# Journal Papers
+
+{% for post in pubs %}{% if post.pubtype == "journal" %}
+  {% include archive-single.html %}
+{% endif %}{% endfor %}
+
 # Workshop Papers
 
 {% for post in pubs %}{% if post.pubtype == "workshop" %}
@@ -28,6 +34,12 @@ author_profile: true
 # Preprints
 
 {% for post in pubs %}{% if post.pubtype == "preprint" %}
+  {% include archive-single.html %}
+{% endif %}{% endfor %}
+
+# Thesis & Patents
+
+{% for post in pubs %}{% if post.pubtype == "thesis" or post.pubtype == "patent" %}
   {% include archive-single.html %}
 {% endif %}{% endfor %}
 

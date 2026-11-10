@@ -2,7 +2,8 @@
 title: "Building a Word Segmenter for Sanskrit Overnight"
 collection: publications
 pubtype: conference
-permalink: http://www.lrec-conf.org/proceedings/lrec2018/summaries/669.html
+link: 'http://www.lrec-conf.org/proceedings/lrec2018/summaries/669.html'
+permalink: /publication/2018-building-word-segmenter
 excerpt: 'Vikas Reddy, Amrith Krishna, <b>Vishnu Dutt Sharma</b>, Prateek Gupta, Vineeth M R, Pawan Goyal. (2018). &quot;Building a Word Segmenter for Sanskrit Overnight.&quot; <br /><i>Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)</i>'
 date: 2018-05-07
 venue: 'Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)'

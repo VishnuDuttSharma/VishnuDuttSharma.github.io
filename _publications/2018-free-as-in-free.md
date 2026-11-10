@@ -2,7 +2,8 @@
 title: "Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit"
 collection: publications
 pubtype: conference
-permalink: https://www.aclweb.org/anthology/D18-1276/
+link: 'https://www.aclweb.org/anthology/D18-1276/'
+permalink: /publication/2018-free-as-in-free
 excerpt: 'Amrith Krishna, Bishal Santra, Sasi Prasanth Bandaru, Gaurav Sahu, <b>Vishnu Dutt Sharma</b>, Pavankumar Satuluri, Pawan Goyal (2018). &quot;Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit.&quot; <br /><i>Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)</i>'
 date: 2018-10-31
 venue: 'Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)'
