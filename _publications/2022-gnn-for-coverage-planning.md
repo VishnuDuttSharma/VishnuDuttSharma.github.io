@@ -1,10 +1,11 @@
 ---
 title: "Graph Neural Networks for Decentralized Multi-Robot Target Tracking"
 collection: publications
+pubtype: conference
 permalink: https://arxiv.org/abs/2105.08601
 excerpt: 'Lifeng Zhou*, <b>Vishnu Dutt Sharma*</b>, Qingbiao Li, Amanda Prorok, Alejandro Ribeiro, Pratap Tokekar, Vijay Kumar (2022). &quot;Graph Neural Networks for Decentralized Multi-Robot Target Tracking.&quot; <br />(<i>*</i>: Indicates equal contribution)<br/><i>IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR 2022)</i>'
-# date: 2009-10-01
-# :venue: ''
+date: 2022-11-08
+venue: 'IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR 2022)'
 paperurl: 'https://arxiv.org/pdf/2105.08601.pdf'
 # citation: 'Vikas Reddy, Amrith Krishna, Vishnu Sharma, Prateek Gupta, Vineeth M R, Pawan Goyal. (2009). &quot;Building a Word Segmenter for Sanskrit Overnight.&quot; <i>Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)</i>.'
 ---

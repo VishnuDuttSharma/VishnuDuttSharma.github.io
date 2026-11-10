@@ -9,28 +9,26 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-# Conference Papers
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% unless post.venue contains "Workshop" or post.venue == "Preprint" or post.title == "Occupancy Map Prediction for Improved Indoor Robot Navigation" %}
-    {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
+{% assign pubs = site.publications | sort: "date" | reverse %}
+
+# Conference Papers
+
+{% for post in pubs %}{% if post.pubtype == "conference" %}
+  {% include archive-single.html %}
+{% endif %}{% endfor %}
 
 # Workshop Papers
 
-{% for post in site.publications reversed %}
-  {% if post.venue contains "Workshop" and post.title != "Occupancy Map Prediction for Improved Indoor Robot Navigation" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+{% for post in pubs %}{% if post.pubtype == "workshop" %}
+  {% include archive-single.html %}
+{% endif %}{% endfor %}
 
 # Preprints
 
-{% for post in site.publications reversed %}
-  {% if post.venue == "Preprint" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+{% for post in pubs %}{% if post.pubtype == "preprint" %}
+  {% include archive-single.html %}
+{% endif %}{% endfor %}
+
+(<i>*</i>: Indicates equal contribution)<br/>
