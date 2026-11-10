@@ -14,17 +14,15 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% unless post.venue contains "Workshop" or post.venue == "Preprint" %}
+  {% unless post.venue contains "Workshop" or post.venue == "Preprint" or post.title == "Occupancy Map Prediction for Improved Indoor Robot Navigation" %}
     {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
 
-(<i>*</i>: Indicates equal contribution)<br/>
-
 # Workshop Papers
 
 {% for post in site.publications reversed %}
-  {% if post.venue contains "Workshop" %}
+  {% if post.venue contains "Workshop" and post.title != "Occupancy Map Prediction for Improved Indoor Robot Navigation" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
